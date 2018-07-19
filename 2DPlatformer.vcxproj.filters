@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="SOIL and STB">
+      <UniqueIdentifier>{73282b07-e4eb-4693-b056-26fbe7e9ace6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Logger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Logger.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Callbacks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GLFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SOIL2\include\etc1_utils.cpp">
+      <Filter>SOIL and STB</Filter>
+    </ClCompile>
+    <ClCompile Include="SOIL2\include\image_DXT.cpp">
+      <Filter>SOIL and STB</Filter>
+    </ClCompile>
+    <ClCompile Include="SOIL2\include\image_helper.cpp">
+      <Filter>SOIL and STB</Filter>
+    </ClCompile>
+    <ClCompile Include="SOIL2\include\SOIL2.cpp">
+      <Filter>SOIL and STB</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Obstacle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="World.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Callbacks.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\include\etc1_utils.h">
+      <Filter>SOIL and STB</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\include\image_DXT.h">
+      <Filter>SOIL and STB</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\include\image_helper.h">
+      <Filter>SOIL and STB</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\include\jo_jpeg.h">
+      <Filter>SOIL and STB</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\include\pkm_helper.h">
+      <Filter>SOIL and STB</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\include\pvr_helper.h">
+      <Filter>SOIL and STB</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\include\SOIL2.h">
+      <Filter>SOIL and STB</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\include\stb_image.h">
+      <Filter>SOIL and STB</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\include\stb_image_write.h">
+      <Filter>SOIL and STB</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\include\stbi_DDS.h">
+      <Filter>SOIL and STB</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\include\stbi_DDS_c.h">
+      <Filter>SOIL and STB</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\include\stbi_ext.h">
+      <Filter>SOIL and STB</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\include\stbi_ext_c.h">
+      <Filter>SOIL and STB</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\include\stbi_pkm.h">
+      <Filter>SOIL and STB</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\include\stbi_pkm_c.h">
+      <Filter>SOIL and STB</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\include\stbi_pvr.h">
+      <Filter>SOIL and STB</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL2\include\stbi_pvr_c.h">
+      <Filter>SOIL and STB</Filter>
+    </ClInclude>
+    <ClInclude Include="GLFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Obstacle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Helpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vectors.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="World.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
