@@ -8,3 +8,4 @@ Camera::Camera()
 Camera::~Camera()
 {
 }
+
