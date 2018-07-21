@@ -12,10 +12,12 @@ If you would like to play the game without worrying about this, you may use the 
 
 # Controls
 
-```*W* or *D* - Move forwards
-*S* or *A* - Move backwards
-**Space** - Jump
-**Y** - Toggle FPS display```
+```
+W or D - Move forwards
+S or A - Move backwards
+Space - Jump
+Y - Toggle FPS display
+```
 The use of arrow keys is not supported at this time.
 
 # Footnote
