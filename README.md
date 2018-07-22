@@ -2,15 +2,15 @@
 
 A simple, minimalistic, boring, buggy 2D platformer made with C++ using OpenGL and SOIL/STB.
 
-# Usage
+## Usage
 You'll need all assets (ending in .png) to have proper textures in the game and not white quads rendered everywhere.
 
-# Compilation
+## Compilation
 LefttoRight was compiled using Visual Studio 2017 on Windows 10. 
 
 If you would like to play the game without worrying about this, you may use the pre-compiled binaries in /Debug (launch the exe).
 
-# Controls
+## Controls
 
 ```
 W or D - Move forwards
@@ -20,11 +20,11 @@ Y - Toggle FPS display
 ```
 The use of arrow keys is not supported at this time.
 
-# Footnote
+## Footnote
 This project was intended for fun and getting into OpenGL. I'll add more features if I ever find the time.
 Feel free to contribute.
 
-# License
+## License
 
 **MIT License**
 
