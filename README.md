@@ -26,7 +26,7 @@ Feel free to contribute.
 
 # License
 
-MIT License
+**MIT License**
 
 Copyright 2018 UltraFuture7000
 
