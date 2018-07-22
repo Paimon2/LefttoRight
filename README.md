@@ -4,11 +4,11 @@ A simple, minimalistic, boring, buggy 2D platformer made with C++ using OpenGL a
 
 ## Usage
 You'll need all assets (ending in .png) to have proper textures in the game and not white quads rendered everywhere.
+If you would like to play the game without worrying about compilation, you may use the pre-compiled binaries in /Debug (launch the exe).
 
 ## Compilation
 LefttoRight was compiled using Visual Studio 2017 on Windows 10. 
 
-If you would like to play the game without worrying about this, you may use the pre-compiled binaries in /Debug (launch the exe).
 
 ## Controls
 
